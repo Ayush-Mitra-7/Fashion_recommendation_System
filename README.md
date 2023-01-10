@@ -17,6 +17,8 @@
 This is an End to End Project where a web app is created to show how the model works and
 interacts with the front end structure.
 
+The Dataset was Taken from kaggle.The original Dataset was too large(25GB),so i used a small image dataset
+
 The screenshot of the web app are given below:
 ![Web app](screenshots/pic1.png)
 
